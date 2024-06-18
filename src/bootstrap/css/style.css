@@ -1,0 +1,30 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.header
+{
+	top: 0;
+	width: 100%;
+	justify-content: space-between;
+	box-sizing: border-box;
+	z-index: 99999;
+	margin: 0;
+	padding: 0;
+	background-color: blue;
+	
+}
+.fa-solid
+{
+	display: flex;
+	height: 24px;
+	width: 24px;
+	
+}
+.logo 
+{
+	width: 160px;
+    aspect-ratio: auto 160 / 40;
+    height: 40px;
+}
